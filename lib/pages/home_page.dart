@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 24.0),
               child: Text(
-                'Let\'s order fresh items for you',
+                'Let\'s keep your items fresh for you',
                 style: GoogleFonts.notoSerif(
                   fontSize: 38,
                   fontWeight: FontWeight.bold,
@@ -57,7 +57,7 @@ class HomePage extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.symmetric(horizontal: 24.0),
               child: Text(
-                'Fresh items everyday',
+                'Track your grocery\'s quality instantly',
                 style: TextStyle(
                   fontSize: 17,
                 ),

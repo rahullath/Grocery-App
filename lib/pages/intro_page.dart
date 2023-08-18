@@ -19,7 +19,7 @@ class IntroPage extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(25.0),
             child: Text(
-              'We deliver groceries at your doorstep',
+              'Track food and avoid wastage',
               textAlign: TextAlign.center,
               style: GoogleFonts.notoSerif(
                 fontSize: 36,
