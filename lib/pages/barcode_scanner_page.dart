@@ -66,4 +66,4 @@ class _BarcodeScannerPageState extends State<BarcodeScannerPage> {
     controller?.dispose();
     super.dispose();
   }
-}
+} 
